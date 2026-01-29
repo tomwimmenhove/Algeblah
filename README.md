@@ -1,7 +1,7 @@
 # Algeblah
 Messing around with an algoritm that re-arranges equations
 
-There's an online demo available: https://portal.tomwimmenhove.com/algeblah/demo.html
+There's an online demo available: https://algeblah.co.uk/
 
 Here's an example of it's usage:
 ```
